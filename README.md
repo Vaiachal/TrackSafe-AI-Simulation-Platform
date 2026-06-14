@@ -34,32 +34,19 @@ The initiative also involved discussions with railway engineering stakeholders t
 
 ### Dashboard
 
-(Add screenshot here)
+![Dashboard](screenshots/dashboard.png)
 
 ### Intrusion Detection Module
 
-(Add screenshot here)
+![Detection](screenshots/detection.png)
 
 ### Alert Monitoring System
 
-(Add screenshot here)
+![Alerts](screenshots/alerts.png)
 
-### Analytics Dashboard
+### Final Output:
 
-(Add screenshot here)
-
-## Demo Video
-
-(Add YouTube or demo link here)
-
-## Future Enhancements
-
-* Live CCTV integration
-* Edge AI deployment
-* Predictive risk analytics
-* IoT sensor integration
-* Mobile alert applications
-* Centralized railway monitoring network
+![output](screenshots/Output.png)
 
 ## Installation
 
@@ -72,12 +59,6 @@ The initiative also involved discussions with railway engineering stakeholders t
 
 ```bash
 npm install
-```
-
-Create a `.env.local` file and add:
-
-```env
-GEMINI_API_KEY=your_api_key_here
 ```
 
 Run the application:
